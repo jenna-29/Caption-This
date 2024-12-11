@@ -1,6 +1,67 @@
-# GitHub for Developers
+# GitHub for Developers  
+NO MAS CAMBIOS
+GTM
+4
 
 - Class Date: THIS-DATE
+- Facilitator01: @teacher
+
+- Class Date: THIS-DATE
+- Facilitator: @omarvasquezv2-v3
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
+- Facilitator: @jbalcerol
+
+- Facilitator:@JORGE SALAZAR
+
+- Class Date: THIS-DATE
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
+- Facilitator: @jbalcerol
+- Facilitator:@JORGE SALAZAR
+
+- Class Date: THIS-DATE
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
+- Facilitator: @jbalcerol
+
+- Facilitator:@JORGE SALAZAR
+- Facilitator:@eggp73
+
 - Facilitator: @TEACHER-HANDLE
 
 ## Class Resources
@@ -13,7 +74,7 @@
 <details>
 
 <summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
-
+Linea introducida por jorge
 #### Git
 
 - [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
@@ -53,7 +114,7 @@
 
 ### What's Next?
 
-After you have completed this course, you are probably wondering where to go from here:
+After you have completed this course, you are probably wondering where to go from here:aaa
 
 - [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
