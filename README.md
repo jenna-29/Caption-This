@@ -1,8 +1,19 @@
 # GitHub for Developers
+wmartinezr
 
+- Class Date: Mayo 08 de 2024
+- Facilitator: will_i_am
+- Prueba de cambio - Credential manager
+- Prueba de segundo cambio - sign out otro usuario
+- Prueba otro cambio logeo wmr
+- Prueba otro cambio OK!!
+- 
+=======
+- cambio cz
 - Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
-
+- Facilitator: rsangar25
+- Cambio readme para otro caso
+ czang
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
@@ -58,3 +69,6 @@ After you have completed this course, you are probably wondering where to go fro
 - [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
+
+
+### modificado AFA V1
