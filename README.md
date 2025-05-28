@@ -1,3 +1,4 @@
+1行目にgit trainingを追記
 # GitHub for Developers
 
 - Class Date: THIS-DATE
