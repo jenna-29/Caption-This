@@ -1,3 +1,4 @@
+github_training
 # GitHub for Developers
 
 - Class Date: THIS-DATE
