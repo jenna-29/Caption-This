@@ -1,4 +1,4 @@
-github_training
+github_training2回目
 # GitHub for Developers
 
 - Class Date: THIS-DATE
