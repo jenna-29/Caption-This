@@ -3,3 +3,8 @@ _site/
 .jekyll-metadata
 .bundle
 vendor/
+/.vs/caption-this.slnx/FileContentIndex/c9ee34a2-8733-4d8c-b300-8811cb62671d.vsidx
+/.vs/caption-this.slnx/FileContentIndex
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/slnx.sqlite-journal
