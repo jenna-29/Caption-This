@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: 2026-05-06
+- Class Date: 05 MAY 2026
 - Facilitator: @kgailloynd
 
 ## Class Resources
